@@ -7,9 +7,6 @@ var resultText = document.querySelector('#result-text')
 function calculateHypotenuse(event) {
   event.preventDefault()
 
-  // console.log(legOneInput.value, typeof(legOneInput.value))
-  // console.log(legTwoInput.value, typeof(legTwoInput.value))
-
   if (!legOneInput.value || !legTwoInput.value) {
     alert('No fields can be left empty! Fill in all the fields :)')
     return
@@ -17,9 +14,6 @@ function calculateHypotenuse(event) {
 
   legOne = parseFloat(legOneInput.value)
   legTwo = parseFloat(legTwoInput.value)
-
-  // console.log(legOne, typeof(legOne))
-  // console.log(legTwo, typeof(legTwo))
 
   if (legOne === 0 || legTwo === 0) {
     alert('No side can be be 0! Please enter valid inputs :)')
