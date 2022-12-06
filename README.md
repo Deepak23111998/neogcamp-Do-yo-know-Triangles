@@ -1,5 +1,6 @@
-# do-you-know-triangles
+## Do-You-Know-Triangles
 
-interesting Quiz on triangles containing questions based on angles of a triangle, obtuse-angled triangle, acute-angled triangle, right-angled triangle, the hypotenuse of a right-angled triangle, sides of a triangle, area of a triangle, etc. made in vanillaJS
+# The App we create will test your knowledge on Triangles. So tighten your seatbealts as we are again ready to take you
+# back to your school days. Link given below.
 
-link - https://do-yo-know-triangles2311.netlify.app/
+# [Link](https://do-yo-know-triangles2311.netlify.app/)
